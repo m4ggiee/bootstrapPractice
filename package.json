@@ -1,0 +1,19 @@
+{
+  "name": "homework26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Dependencies",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install [lib_name] --save"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "moment": "^2.29.4"
+  }
+}

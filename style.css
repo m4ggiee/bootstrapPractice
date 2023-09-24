@@ -1,0 +1,28 @@
+.btn{
+    background-color: violet;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-secondary{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.custom-tooltip {
+    border-radius: 5px;
+    background-color: aqua;
+    width: 300px;
+    height: 50px;
+}
+#myAlert{
+ display: none;
+}
+.modal{
+    display: none;
+}
+.modal-dialog{
+    border: solid 1px black;
+    width: 300px;
+    height: 150px;
+}
